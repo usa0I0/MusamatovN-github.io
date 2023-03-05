@@ -121,7 +121,7 @@ h3:nth-of-type(3) {
 	color: white;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1200px) {
 	
 	.icons {
 		flex-direction: column;
